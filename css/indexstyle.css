@@ -140,19 +140,6 @@ footer {
         color: #cbd5e1;
     }
 
-    .logo-container {
-        display: flex;
-        align-items: center;
-        gap: 10px;
-    }
 
-    .logo {
-        height: 40px;
-    }
 
-    .logo-text {
-        font-size: 22px;
-        font-weight: bold;
-        color: #38bdf8;
-    }
 }
